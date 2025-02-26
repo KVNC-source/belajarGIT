@@ -7,5 +7,12 @@
 # 6. Tugas-php
 # 7. Tugas-finalProject
 # 
-# Daftar perintah GiT
-# ...
+# Daftar perintah GIT
+# git checkout -b Tugas-namaBranch
+#touch Tugas-namaFile.txt
+#nano Tugas-namaFile.txt 
+#git add Tugas-namaFile.txt 
+#git commit -m "Pembuatan Tugas-nama.txt"
+#git checkout main 
+#git merge Tugas-namaBranch
+#git push origin main
